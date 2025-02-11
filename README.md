@@ -1,5 +1,5 @@
 # - 📡 hi, my name is nicolas, a  brazilian telecommunications engineering student!
-  - 19 years and member of HUAWEI ACADEMY on IFCE 
+  - 19 years 
   - 💻 current focuses: cybersec, embedded systems… and front-end developer!
 
     
